@@ -1,9 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on uadralyst Pvt. Ltd.<br>I'm working on Web and mobile application development using Angular, Firebase, TypeScript, Ionic, HTML, and SCSS, with a strong focus on clean code and reliable system behavior.<br>👯 I’m looking to collaborate on<br>Web applications, mobile apps, open-source projects, startup ideas, and learning-based initiatives where practical problem-solving and teamwork are valued.<br>🤝 I’m looking for help with<br>Application architecture, performance optimization, backend integration, UI/UX improvements, career guidance, and scaling applications for real-world usage.<br>🌱 I’m currently learning<br>Advanced Angular concepts, system design principles, cloud services, backend frameworks, testing methodologies, and DevOps practices.<br>💬 Ask me about<br>Specific technologies, problem-solving approaches, development best practices, debugging techniques, and mentoring for early-stage developers.<br>⚡ Fun fact / Philosophy<br>I believe good software is built through disciplined work ethic, continuous learning, and respect for fundamentals. Clear thinking and clean code always stand the test of time.
 
-
-## 🌐 Socials
-
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/bhooshan-pandre-10793b237/?originalSubdomain=in))
