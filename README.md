@@ -17,3 +17,7 @@
 [![](https://visitcount.itsvg.in/api?id=bhooshanquadralyst&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📝 Featured Articles & Biography
+- 📖 [Who is Bhooshan Pandre? Biography & Developer Journey](https://bhooshan-pandre.blogspot.com/2026/11/who-is-bhooshan-pandre-biography.html)
+- 🚀 [From Telecom to Tech: My Journey as a Software Developer](https://medium.com/@bhooshanpandre200/from-telecom-to-tech-the-journey-of-software-developer-bhooshan-pandre-e4ccadb40b11?sharedUserId=bhooshanpandre200)
+- 🌐 [Official Portfolio]([https://web.app](https://bhooshan-pandre.web.app))
