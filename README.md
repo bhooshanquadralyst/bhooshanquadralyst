@@ -12,7 +12,7 @@
 ### 📝 Featured Articles & Biography
 - 📖 [Who is Bhooshan Pandre? Biography & Developer Journey](https://bhooshan-pandre.blogspot.com/2026/11/who-is-bhooshan-pandre-biography.html)
 - 🚀 [From Telecom to Tech: My Journey as a Software Developer](https://medium.com/@bhooshanpandre200/from-telecom-to-tech-the-journey-of-software-developer-bhooshan-pandre-e4ccadb40b11?sharedUserId=bhooshanpandre200)
-- 🌐 [Official Portfolio](https://web.app](https://bhooshan-pandre.web.app))
+- 🌐 [Official Portfolio](https://bhooshan-pandre.web.app)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bhooshanquadralyst&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
